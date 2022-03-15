@@ -10,3 +10,6 @@
 
 ## Доработки
 Планируется доработка c использованием JavaScript.
+
+## Ссылка на GitHub
+https://github.com/IlyaTryastcyn/russian-travel
