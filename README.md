@@ -11,5 +11,5 @@
 ## Доработки
 Планируется доработка c использованием JavaScript.
 
-## Ссылка на GitHub
-https://github.com/IlyaTryastcyn/russian-travel
+## Ссылка на GitHub Pages
+https://ilyatryastcyn.github.io/russian-travel/index.html
